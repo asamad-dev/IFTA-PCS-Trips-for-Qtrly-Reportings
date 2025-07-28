@@ -1,0 +1,2850 @@
+{
+  "FULLERTON, California, USA": [
+    33.87033,
+    -117.92889
+  ],
+  "SIMI VALLEY, California, USA": [
+    34.28946,
+    -118.71766
+  ],
+  "CHAMBLEE, Georgia, USA": [
+    33.89423,
+    -84.29833
+  ],
+  "MILLERBURG, Ohio, USA": [
+    40.55416,
+    -81.91673
+  ],
+  "HUTCHINS, Texas, USA": [
+    32.64997,
+    -96.71348
+  ],
+  "PENSACOLA, Florida, USA": [
+    30.42104,
+    -87.21726
+  ],
+  "DAWN, Texas, USA": [
+    34.91267,
+    -102.20492
+  ],
+  "LEOMINSTER, Massachusetts, USA": [
+    42.52691,
+    -71.76194
+  ],
+  "NEWBURY PARK, California, USA": [
+    34.18882,
+    -118.94033
+  ],
+  "FAIRFIELD, California, USA": [
+    38.24924,
+    -122.0443
+  ],
+  "VENTURA, California, USA": [
+    34.27938,
+    -119.29311
+  ],
+  "MOUNT JULIET, Tennessee, USA": [
+    36.19937,
+    -86.519
+  ],
+  "BIRMINGHAM, Alabama, USA": [
+    33.52072,
+    -86.81179
+  ],
+  "LAUREL, Mississippi, USA": [
+    31.69682,
+    -89.13518
+  ],
+  "TRACY, California, USA": [
+    37.7397,
+    -121.42641
+  ],
+  "WICHITA, Kansas, USA": [
+    37.68749,
+    -97.33558
+  ],
+  "SPRINGFIELD, Ohio, USA": [
+    39.92503,
+    -83.80673
+  ],
+  "CINNAMINSON, New Jersey, USA": [
+    39.99898,
+    -74.99473
+  ],
+  "CLAYTON, Indiana, USA": [
+    39.68934,
+    -86.52312
+  ],
+  "OPELIKA, Alabama, USA": [
+    32.65069,
+    -85.3804
+  ],
+  "CYPRESS, Texas, USA": [
+    29.97581,
+    -95.67788
+  ],
+  "Farmington, New Mexico, USA": [
+    36.72814,
+    -108.20571
+  ],
+  "Rialto, California, USA": [
+    34.10032,
+    -117.37282
+  ],
+  "FRENCH CAMP, California, USA": [
+    37.88484,
+    -121.27117
+  ],
+  "WOODRIDGE, Illinois, USA": [
+    41.7509,
+    -88.0275
+  ],
+  "AMARILLO, Texas, USA": [
+    35.20728,
+    -101.83411
+  ],
+  "FARMERS BRANCH, Texas, USA": [
+    32.92178,
+    -96.89271
+  ],
+  "ORLAND, California, USA": [
+    39.7474,
+    -122.19544
+  ],
+  "COLUMBIA, South Carolina, USA": [
+    33.99882,
+    -81.04537
+  ],
+  "WILMINGTON, California, USA": [
+    33.78991,
+    -118.26323
+  ],
+  "FINDLAY, Ohio, USA": [
+    41.0376,
+    -83.6503
+  ],
+  "VAN BUREN TOWNSHIP, Michigan, USA": [
+    42.23372,
+    -83.49405
+  ],
+  "PHILADELPHIA, Pennsylvania, USA": [
+    39.95222,
+    -75.16218
+  ],
+  "SAN DIEGO, California, USA": [
+    32.71568,
+    -117.16171
+  ],
+  "MIDLAND, North Carolina, USA": [
+    35.22687,
+    -80.50315
+  ],
+  "BALDWINSVILLE, New York, USA": [
+    43.15867,
+    -76.33276
+  ],
+  "THOMAS, Oklahoma, USA": [
+    35.7439,
+    -98.74797
+  ],
+  "FREDERICKSBURG, Pennsylvania, USA": [
+    40.44428,
+    -76.43235
+  ],
+  "GRAND JUNCTION, Colorado, USA": [
+    39.06879,
+    -108.56445
+  ],
+  "THOMASTON, Georgia, USA": [
+    32.89903,
+    -84.32852
+  ],
+  "LAKE FOREST, Illinois, USA": [
+    42.25103,
+    -87.84173
+  ],
+  "Carlsbad, California, USA": [
+    33.16588,
+    -117.33822
+  ],
+  "PARAMOUNT, California, USA": [
+    33.88516,
+    -118.1614
+  ],
+  "PLYMOUTH MEETIN, Pennsylvania, USA": [
+    40.10937,
+    -75.29623
+  ],
+  "LONGMONT, Colorado, USA": [
+    40.16394,
+    -105.10015
+  ],
+  "SAUGATUCK, Michigan, USA": [
+    42.65552,
+    -86.20287
+  ],
+  "DAYTONA BEACH, Florida, USA": [
+    29.20366,
+    -81.03917
+  ],
+  "UNDERWOOD, Iowa, USA": [
+    41.38953,
+    -95.67756
+  ],
+  "DENVER, Colorado, USA": [
+    39.74001,
+    -104.99202
+  ],
+  "WINSTON SALEM, North Carolina, USA": [
+    36.10001,
+    -80.24116
+  ],
+  "CALEXICO, California, USA": [
+    32.67864,
+    -115.49866
+  ],
+  "GEORGETOWN, Texas, USA": [
+    30.63816,
+    -97.67703
+  ],
+  "HARRISBURG, North Carolina, USA": [
+    35.32115,
+    -80.66075
+  ],
+  "STUTTGART, Arkansas, USA": [
+    34.49832,
+    -91.55262
+  ],
+  "SAN BERNARDINO, California, USA": [
+    34.10524,
+    -117.29412
+  ],
+  "STALEY, North Carolina, USA": [
+    35.79641,
+    -79.55162
+  ],
+  "PALM BEACH GARDEN, Florida, USA": [
+    26.83412,
+    -80.10526
+  ],
+  "Stafford, Texas, USA": [
+    29.6148,
+    -95.55709
+  ],
+  "RIVER FALLS, Wisconsin, USA": [
+    44.85418,
+    -92.62812
+  ],
+  "HAINES CITY, Florida, USA": [
+    28.10668,
+    -81.62685
+  ],
+  "PLEASANT PRAIRIE, Wisconsin, USA": [
+    42.52744,
+    -87.85394
+  ],
+  "GREENCASTLE, Indiana, USA": [
+    39.644,
+    -86.86077
+  ],
+  "Rural Hall, North Carolina, USA": [
+    36.24074,
+    -80.2961
+  ],
+  "LOWER BAL SAN LEANDRO, California, USA": [
+    37.70669,
+    -122.13713
+  ],
+  "GARNER, North Carolina, USA": [
+    35.70644,
+    -78.62304
+  ],
+  "Savannah, Georgia, USA": [
+    32.08091,
+    -81.09119
+  ],
+  "Saint Augustine, Florida, USA": [
+    29.89216,
+    -81.31411
+  ],
+  "MEDLEY, Florida, USA": [
+    25.84074,
+    -80.31422
+  ],
+  "IRVINE, California, USA": [
+    33.6873,
+    -117.82591
+  ],
+  "DES PLAINES, Illinois, USA": [
+    42.0423,
+    -87.88921
+  ],
+  "MONROE TOWNSHIP, New Jersey, USA": [
+    39.66773,
+    -74.97193
+  ],
+  "Houston, Mississippi, USA": [
+    33.89627,
+    -89.00016
+  ],
+  "SAINT PETERSBURG, Florida, USA": [
+    27.77119,
+    -82.63876
+  ],
+  "VANDALIA, Ohio, USA": [
+    39.89134,
+    -84.1925
+  ],
+  "WADDELL, Arizona, USA": [
+    33.5413,
+    -112.42718
+  ],
+  "Santa Fe Springs, California, USA": [
+    33.94649,
+    -118.08384
+  ],
+  "FREDERICK, Maryland, USA": [
+    39.41574,
+    -77.41203
+  ],
+  "Albuquerque, New Mexico, USA": [
+    35.08423,
+    -106.64905
+  ],
+  "TEXARKANA, Texas, USA": [
+    33.42589,
+    -94.04845
+  ],
+  "SCHERTZ, Texas, USA": [
+    29.56797,
+    -98.2721
+  ],
+  "ELWOOD, Illinois, USA": [
+    41.40499,
+    -88.10963
+  ],
+  "DUNCAN, South Carolina, USA": [
+    34.93822,
+    -82.14473
+  ],
+  "VAN BUREN TWP, Michigan, USA": [
+    42.23372,
+    -83.49405
+  ],
+  "BLOOMSBURG, Pennsylvania, USA": [
+    41.00459,
+    -76.45333
+  ],
+  "SAN FERNANDO, California, USA": [
+    34.28406,
+    -118.43844
+  ],
+  "LA MIRADA, California, USA": [
+    33.90862,
+    -118.01173
+  ],
+  "SAN JOSE, California, USA": [
+    37.33865,
+    -121.88542
+  ],
+  "STAFFORD, Texas, USA": [
+    29.6148,
+    -95.55709
+  ],
+  "COLUMBUS, Indiana, USA": [
+    39.2015,
+    -85.91868
+  ],
+  "PARK CITY, Kansas, USA": [
+    37.79612,
+    -97.31819
+  ],
+  "HANOVER PARK, Illinois, USA": [
+    41.99147,
+    -88.15913
+  ],
+  "PETERSBURG, Virginia, USA": [
+    37.22815,
+    -77.40348
+  ],
+  "WOODSTOWN NJ, New Jersey, USA": [
+    39.65146,
+    -75.32433
+  ],
+  "MURRIETA, California, USA": [
+    33.55843,
+    -117.21179
+  ],
+  "TURLOCK, California, USA": [
+    37.49528,
+    -120.84672
+  ],
+  "NORTH PORT, Florida, USA": [
+    27.07514,
+    -82.20681
+  ],
+  "COVINGTON, Georgia, USA": [
+    33.59684,
+    -83.86164
+  ],
+  "PLANT CITY, Florida, USA": [
+    28.01737,
+    -82.12541
+  ],
+  "HATTIESBURG, Mississippi, USA": [
+    31.32754,
+    -89.29096
+  ],
+  "BAY ST LOUIS, Mississippi, USA": [
+    30.31623,
+    -89.3484
+  ],
+  "DULUTH, Georgia, USA": [
+    34.00366,
+    -84.14542
+  ],
+  "OAKLAND, California, USA": [
+    37.80508,
+    -122.27307
+  ],
+  "PARAGOULD, Arkansas, USA": [
+    36.05695,
+    -90.48737
+  ],
+  "KEWANEE, Illinois, USA": [
+    41.2473,
+    -89.92486
+  ],
+  "COOKEVILLE, Tennessee, USA": [
+    36.16193,
+    -85.4998
+  ],
+  "ALBANY, Georgia, USA": [
+    31.5814,
+    -84.15602
+  ],
+  "CASA GRANDE, Arizona, USA": [
+    32.87955,
+    -111.75084
+  ],
+  "EL CAJON, California, USA": [
+    32.79495,
+    -116.95903
+  ],
+  "CLARENCE, Iowa, USA": [
+    41.88785,
+    -91.05475
+  ],
+  "MYRTLE BEACH, South Carolina, USA": [
+    33.69372,
+    -78.88231
+  ],
+  "CHANDLER, Arizona, USA": [
+    33.30338,
+    -111.84083
+  ],
+  "ALTUS, Oklahoma, USA": [
+    34.63783,
+    -99.33374
+  ],
+  "HEDERSON, North Carolina, USA": [
+    35.43752,
+    -88.64675
+  ],
+  "SPRINGFIELD, Missouri, USA": [
+    37.20897,
+    -93.2916
+  ],
+  "LA HABRA, California, USA": [
+    33.93187,
+    -117.94348
+  ],
+  "LATTA, South Carolina, USA": [
+    34.33692,
+    -79.43155
+  ],
+  "CHANTILLY, Virginia, USA": [
+    38.88675,
+    -77.43892
+  ],
+  "COLONIAL HEIGHTS, Virginia, USA": [
+    37.25407,
+    -77.41114
+  ],
+  "ELKRIDGE, Maryland, USA": [
+    39.20699,
+    -76.72722
+  ],
+  "SANGER, Texas, USA": [
+    33.36229,
+    -97.17174
+  ],
+  "PRINCETON, Illinois, USA": [
+    41.37177,
+    -89.46397
+  ],
+  "COMPTON, California, USA": [
+    33.89569,
+    -118.22436
+  ],
+  "HIALEAH, Florida, USA": [
+    25.82699,
+    -80.2815
+  ],
+  "GROVEPORT, Ohio, USA": [
+    39.85389,
+    -82.88271
+  ],
+  "MEXICO, Missouri, USA": [
+    39.17263,
+    -91.88725
+  ],
+  "TOLLESON, Arizona, USA": [
+    33.45031,
+    -112.26384
+  ],
+  "MIRA LOMA, California, USA": [
+    33.98129,
+    -117.52545
+  ],
+  "SANTA ANA, California, USA": [
+    33.74958,
+    -117.87446
+  ],
+  "OLANCHA, California, USA": [
+    36.28204,
+    -118.00604
+  ],
+  "BROOKLET, Georgia, USA": [
+    32.37954,
+    -81.66335
+  ],
+  "JACKSONVILLE, North Carolina, USA": [
+    34.74929,
+    -77.42105
+  ],
+  "CHARLOTTE, North Carolina, USA": [
+    35.22286,
+    -80.83796
+  ],
+  "EDGERTON, Kansas, USA": [
+    38.76492,
+    -95.00612
+  ],
+  "BLYTHVILLE, Arkansas, USA": [
+    35.92385,
+    -89.91765
+  ],
+  "PRT ST LUCIE, Florida, USA": [
+    27.45915,
+    -80.32638
+  ],
+  "Waddell, Arizona, USA": [
+    33.5413,
+    -112.42718
+  ],
+  "THOMASVILLE, North Carolina, USA": [
+    35.8839,
+    -80.08225
+  ],
+  "SAN MARCOS, California, USA": [
+    33.14115,
+    -117.16069
+  ],
+  "PORTSMOUTH, Virginia, USA": [
+    36.83273,
+    -76.29771
+  ],
+  "SPRINGDALE, Arkansas, USA": [
+    36.18836,
+    -94.13021
+  ],
+  "WOOD RIDGE, New Jersey, USA": [
+    40.8442,
+    -74.08748
+  ],
+  "SOUTHAVEN, Mississippi, USA": [
+    34.98849,
+    -90.00482
+  ],
+  "REDLAND, California, USA": [
+    34.05699,
+    -117.22619
+  ],
+  "MODESTO, California, USA": [
+    37.64155,
+    -121.00346
+  ],
+  "MONTECITO, California, USA": [
+    37.97214,
+    -122.51539
+  ],
+  "CONROE, Texas, USA": [
+    30.31217,
+    -95.45594
+  ],
+  "CLEVELAND, Ohio, USA": [
+    41.50473,
+    -81.69074
+  ],
+  "Buda, Texas, USA": [
+    30.08165,
+    -97.84301
+  ],
+  "RANCHO DOMINGUEZ, California, USA": [
+    33.85761,
+    -118.21594
+  ],
+  "New Oxford, Pennsylvania, USA": [
+    39.86366,
+    -77.05659
+  ],
+  "PHILLIPSBURG, New Jersey, USA": [
+    40.69455,
+    -75.19822
+  ],
+  "SOMERVILLE, Tennessee, USA": [
+    35.24499,
+    -89.35005
+  ],
+  "NEW EAGLE, Pennsylvania, USA": [
+    40.20781,
+    -79.94573
+  ],
+  "SAINT LOUIS, Missouri, USA": [
+    38.62775,
+    -90.19956
+  ],
+  "EAST BERLIN, Pennsylvania, USA": [
+    39.93801,
+    -76.97963
+  ],
+  "ROSEVILLE, California, USA": [
+    38.74896,
+    -121.28404
+  ],
+  "SACRAMENTO, California, USA": [
+    38.57944,
+    -121.49085
+  ],
+  "MOUNT STERLING, Illinois, USA": [
+    39.98624,
+    -90.76686
+  ],
+  "CONNERSVILLE, Indiana, USA": [
+    39.64152,
+    -85.13754
+  ],
+  "RICEBORO, Georgia, USA": [
+    31.73656,
+    -81.43414
+  ],
+  "Williamsburg, Virginia, USA": [
+    37.27569,
+    -76.71029
+  ],
+  "GODDARD, Kansas, USA": [
+    37.65772,
+    -97.57491
+  ],
+  "ROSENBURG, Texas, USA": [
+    32.83116,
+    -97.58521
+  ],
+  "LEXINGTON, Kentucky, USA": [
+    38.04861,
+    -84.5003
+  ],
+  "MCKINNEY, Texas, USA": [
+    33.19916,
+    -96.615
+  ],
+  "BAYONNE, New Jersey, USA": [
+    40.66876,
+    -74.11753
+  ],
+  "ROCHESTER, New Hampshire, USA": [
+    43.30553,
+    -70.98036
+  ],
+  "AVENTURA, Florida, USA": [
+    25.96876,
+    -80.14456
+  ],
+  "LIBERTY, Missouri, USA": [
+    39.24538,
+    -94.41942
+  ],
+  "LA PORTE, Texas, USA": [
+    29.65249,
+    -95.02454
+  ],
+  "TEMPE, Arizona, USA": [
+    33.42554,
+    -111.93722
+  ],
+  "SUGARLAND, Texas, USA": [
+    29.63297,
+    -95.60067
+  ],
+  "BUENA PARK, California, USA": [
+    33.8652,
+    -117.99804
+  ],
+  "HAVASU CITY, Arizona, USA": [
+    34.46841,
+    -114.25294
+  ],
+  "BOAZ, Alabama, USA": [
+    34.19765,
+    -86.16562
+  ],
+  "MORRIS, Illinois, USA": [
+    41.35892,
+    -88.42498
+  ],
+  "AURORA, Colorado, USA": [
+    39.70932,
+    -104.81458
+  ],
+  "MOORPARK, California, USA": [
+    34.28706,
+    -118.88221
+  ],
+  "FREEHOLD, New Jersey, USA": [
+    40.25901,
+    -74.2758
+  ],
+  "LAWTON, Oklahoma, USA": [
+    34.60519,
+    -98.38955
+  ],
+  "FRESNO, California, USA": [
+    36.74095,
+    -119.78536
+  ],
+  "MONTICELLO, Georgia, USA": [
+    33.30451,
+    -83.68326
+  ],
+  "12TH ST CHATTONOOGA, Tennessee, USA": [
+    35.04178,
+    -85.31153
+  ],
+  "SYLMAR, California, USA": [
+    34.3102,
+    -118.45308
+  ],
+  "FORT SMITH, Arkansas, USA": [
+    35.3847,
+    -94.42145
+  ],
+  "COLTON, California, USA": [
+    34.07214,
+    -117.32321
+  ],
+  "ANDOVER, Massachusetts, USA": [
+    42.65845,
+    -71.1422
+  ],
+  "LOCO HILLS, New Mexico, USA": [
+    32.86266,
+    -103.97712
+  ],
+  "PEMBROKE PARK, Florida, USA": [
+    25.98391,
+    -80.19477
+  ],
+  "COOLIDGE, Arizona, USA": [
+    32.97763,
+    -111.51625
+  ],
+  "HACIENDA HEIGHTS, California, USA": [
+    33.99413,
+    -117.97254
+  ],
+  "OLATHE, Kansas, USA": [
+    38.88353,
+    -94.81852
+  ],
+  "REDLANDS, California, USA": [
+    34.05538,
+    -117.18259
+  ],
+  "COLLEGE PARK, Georgia, USA": [
+    33.65652,
+    -84.44874
+  ],
+  "MINNEAPOLIS, Minnesota, USA": [
+    44.97902,
+    -93.26494
+  ],
+  "CAMP VERDE, Arizona, USA": [
+    34.56204,
+    -111.85355
+  ],
+  "O'Fallon, Missouri, USA": [
+    38.81073,
+    -90.69994
+  ],
+  "WARICK, Pennsylvania, USA": [
+    40.20845,
+    -75.07366
+  ],
+  "WEST PALM, Florida, USA": [
+    26.7144,
+    -80.05329
+  ],
+  "HILLSBORO, Kansas, USA": [
+    38.34799,
+    -97.20538
+  ],
+  "SAXONBURG, Pennsylvania, USA": [
+    40.75434,
+    -79.81717
+  ],
+  "ORLANDO, Florida, USA": [
+    28.53822,
+    -81.37739
+  ],
+  "BUCKEYE, Arizona, USA": [
+    33.37049,
+    -112.58957
+  ],
+  "ECRU, Mississippi, USA": [
+    34.35083,
+    -89.02894
+  ],
+  "CARTERSVILLE, Georgia, USA": [
+    34.16522,
+    -84.79542
+  ],
+  "LOXLEY, Alabama, USA": [
+    30.62169,
+    -87.753
+  ],
+  "HINCKLEY, Ohio, USA": [
+    41.23841,
+    -81.74499
+  ],
+  "BALDWYN, Mississippi, USA": [
+    34.50915,
+    -88.6334
+  ],
+  "GRANDVIEW, Missouri, USA": [
+    38.88932,
+    -94.53363
+  ],
+  "San Diego, California, USA": [
+    32.71568,
+    -117.16171
+  ],
+  "STATESBORO, Georgia, USA": [
+    32.44891,
+    -81.78333
+  ],
+  "EL PASO, Texas, USA": [
+    31.75916,
+    -106.48749
+  ],
+  "LOCKBOURNE, Ohio, USA": [
+    39.8089,
+    -82.96992
+  ],
+  "POMONA, California, USA": [
+    34.05499,
+    -117.75004
+  ],
+  "CHAMBERSBURG, Pennsylvania, USA": [
+    39.93743,
+    -77.66075
+  ],
+  "SUN VALLEY, California, USA": [
+    34.2156,
+    -118.37035
+  ],
+  "ROCK HILL, South Carolina, USA": [
+    34.92428,
+    -81.02709
+  ],
+  "WIMBERLEY, Texas, USA": [
+    29.98058,
+    -98.09392
+  ],
+  "WINTER GARDEN, Florida, USA": [
+    28.56536,
+    -81.5882
+  ],
+  "LITHIA SPRINGS, Georgia, USA": [
+    33.79382,
+    -84.66073
+  ],
+  "ANDERSON, South Carolina, USA": [
+    34.50061,
+    -82.64962
+  ],
+  "HOWELL, New Jersey, USA": [
+    40.15474,
+    -74.23051
+  ],
+  "KANSAS CITY, Kansas, USA": [
+    39.11352,
+    -94.62682
+  ],
+  "Oak Grove, Kentucky, USA": [
+    36.66516,
+    -87.43773
+  ],
+  "EAST RANCHO D, California, USA": [
+    40.06575,
+    -79.88778
+  ],
+  "CORONA, California, USA": [
+    33.87925,
+    -117.57483
+  ],
+  "OVERLAND PARK, Kansas, USA": [
+    38.9858,
+    -94.67161
+  ],
+  "MOORE, South Carolina, USA": [
+    34.83246,
+    -81.9911
+  ],
+  "GILBERT, Arizona, USA": [
+    33.33051,
+    -111.79026
+  ],
+  "MANCHESTER, Connecticut, USA": [
+    41.769,
+    -72.52069
+  ],
+  "Billerica, Massachusetts, USA": [
+    42.56355,
+    -71.27144
+  ],
+  "LUBBOCK, Texas, USA": [
+    33.58451,
+    -101.84462
+  ],
+  "BLYTHEWOOD, South Carolina, USA": [
+    34.21503,
+    -80.97362
+  ],
+  "PLAINVIEW, Texas, USA": [
+    34.19781,
+    -101.69815
+  ],
+  "WEBB CITY, Missouri, USA": [
+    37.14614,
+    -94.46304
+  ],
+  "JOPLIN, Missouri, USA": [
+    37.08476,
+    -94.51347
+  ],
+  "EVANVILLE, Indiana, USA": [
+    37.97377,
+    -87.4881
+  ],
+  "CINCINNATI, Ohio, USA": [
+    39.10713,
+    -84.50413
+  ],
+  "SANTA FE SPRINGS, California, USA": [
+    33.94649,
+    -118.08384
+  ],
+  "MONTGOMERY, Alabama, USA": [
+    32.38015,
+    -86.30005
+  ],
+  "Harrisonburg, Virginia, USA": [
+    38.45163,
+    -78.8697
+  ],
+  "SAINT CHARLES, Missouri, USA": [
+    38.7831,
+    -90.48173
+  ],
+  "HUNTSVILLE, Texas, USA": [
+    30.72378,
+    -95.55217
+  ],
+  "ROYAL PALM BEACH, Florida, USA": [
+    26.70609,
+    -80.22916
+  ],
+  "HOT SPRINGS, Arkansas, USA": [
+    34.5096,
+    -93.05177
+  ],
+  "LAKE FOREST, California, USA": [
+    33.62826,
+    -117.71743
+  ],
+  "Valparaiso, Indiana, USA": [
+    41.46776,
+    -87.06123
+  ],
+  "COSTA MESA, California, USA": [
+    33.66389,
+    -117.90239
+  ],
+  "JACKSONVILLE, Florida, USA": [
+    30.33147,
+    -81.65622
+  ],
+  "MILWAUKEE, Wisconsin, USA": [
+    43.04223,
+    -87.9069
+  ],
+  "DAYTON, Texas, USA": [
+    30.04509,
+    -94.8881
+  ],
+  "DUBUQUE, Iowa, USA": [
+    42.49919,
+    -90.66304
+  ],
+  "PINE BROOK, New Jersey, USA": [
+    40.86429,
+    -74.33964
+  ],
+  "KODAK, Tennessee, USA": [
+    35.97374,
+    -83.62647
+  ],
+  "BONNE TERRE, Missouri, USA": [
+    37.92309,
+    -90.55516
+  ],
+  "BUTNER, North Carolina, USA": [
+    36.13048,
+    -78.75491
+  ],
+  "CHEROKEE, Iowa, USA": [
+    42.74958,
+    -95.55129
+  ],
+  "HILLSBOROUGH, New Jersey, USA": [
+    40.48254,
+    -74.6531
+  ],
+  "MILLERSBURG, Ohio, USA": [
+    40.55416,
+    -81.91673
+  ],
+  "Las Vegas, Nevada, USA": [
+    36.17193,
+    -115.14001
+  ],
+  "Ontario, California, USA": [
+    34.06457,
+    -117.6481
+  ],
+  "GARDENA, California, USA": [
+    33.88379,
+    -118.30702
+  ],
+  "HAYWARD, California, USA": [
+    37.67134,
+    -122.08556
+  ],
+  "BLACK MOUNTAIN, North Carolina, USA": [
+    35.61825,
+    -82.3203
+  ],
+  "CARLSTADT, New Jersey, USA": [
+    40.84144,
+    -74.09439
+  ],
+  "BAY CITY, Texas, USA": [
+    28.98296,
+    -95.96941
+  ],
+  "MOCKSVILLE, North Carolina, USA": [
+    35.8954,
+    -80.5627
+  ],
+  "PLAINFIELD, Illinois, USA": [
+    41.60846,
+    -88.21204
+  ],
+  "ROMULUS, Michigan, USA": [
+    42.22291,
+    -83.38536
+  ],
+  "PANAMA CITY, Florida, USA": [
+    30.1604,
+    -85.66033
+  ],
+  "AURORA, Illinois, USA": [
+    41.7571,
+    -88.31613
+  ],
+  "VICTORVILLE, California, USA": [
+    34.51167,
+    -117.32364
+  ],
+  "NATIONAL CITY, California, USA": [
+    32.67218,
+    -117.10558
+  ],
+  "BEUMONT, California, USA": [
+    33.90603,
+    -116.98143
+  ],
+  "ODESSA, Texas, USA": [
+    31.84928,
+    -102.37493
+  ],
+  "ATHENS, Tennessee, USA": [
+    35.44094,
+    -84.59231
+  ],
+  "SUITE 105 TAMPA, Florida, USA": [
+    27.94653,
+    -82.45927
+  ],
+  "CHATTANOOGA, Tennessee, USA": [
+    35.04672,
+    -85.30947
+  ],
+  "IRWINDALE, California, USA": [
+    34.10514,
+    -117.93377
+  ],
+  "WETUMPKA, Alabama, USA": [
+    32.53741,
+    -86.20564
+  ],
+  "CARSON, California, USA": [
+    33.83161,
+    -118.26209
+  ],
+  "San Bernardino, California, USA": [
+    34.10524,
+    -117.29412
+  ],
+  "HAWTHORNE, California, USA": [
+    33.91822,
+    -118.35273
+  ],
+  "POTEAU, Oklahoma, USA": [
+    35.05262,
+    -94.6249
+  ],
+  "MERCED, California, USA": [
+    37.3015,
+    -120.48685
+  ],
+  "PELUGERVILLE, Texas, USA": [
+    30.44056,
+    -97.61994
+  ],
+  "LANCASTER, Pennsylvania, USA": [
+    40.03832,
+    -76.30134
+  ],
+  "PAMONA, California, USA": [
+    38.51319,
+    -95.47158
+  ],
+  "NASHVILLE, Tennessee, USA": [
+    36.16792,
+    -86.77798
+  ],
+  "FLOWERY BRANCH, Georgia, USA": [
+    34.18505,
+    -83.9244
+  ],
+  "KINGSPORT, Tennessee, USA": [
+    36.548,
+    -82.56077
+  ],
+  "OWATONNA, Minnesota, USA": [
+    44.09338,
+    -93.22938
+  ],
+  "GAITHERSBURG, Maryland, USA": [
+    39.14033,
+    -77.19373
+  ],
+  "SAPULPA, Oklahoma, USA": [
+    35.9988,
+    -96.10785
+  ],
+  "TWENTYNINE PALMS, California, USA": [
+    34.13561,
+    -116.05461
+  ],
+  "SANTA MONICA, California, USA": [
+    34.01158,
+    -118.49227
+  ],
+  "SULPHER SPRINGS, Texas, USA": [
+    33.12423,
+    -95.60643
+  ],
+  "JAMESPORT, Missouri, USA": [
+    39.97501,
+    -93.8006
+  ],
+  "JEFFERSON, Georgia, USA": [
+    34.11863,
+    -83.57095
+  ],
+  "BRYAN, Texas, USA": [
+    30.67098,
+    -96.37042
+  ],
+  "KINGWOOD, Texas, USA": [
+    30.05091,
+    -95.18027
+  ],
+  "GARDEN GROVE, California, USA": [
+    33.77607,
+    -117.93611
+  ],
+  "Upland, California, USA": [
+    34.0994,
+    -117.65101
+  ],
+  "GREER, South Carolina, USA": [
+    34.93857,
+    -82.22739
+  ],
+  "YORK, Pennsylvania, USA": [
+    39.96464,
+    -76.72434
+  ],
+  "CORDELE, Georgia, USA": [
+    31.97156,
+    -83.78272
+  ],
+  "VALLEJO, California, USA": [
+    38.10095,
+    -122.25495
+  ],
+  "CITY OF INDUSTRY, California, USA": [
+    34.02336,
+    -117.95661
+  ],
+  "FORT COLLINS, Colorado, USA": [
+    40.58147,
+    -105.07671
+  ],
+  "CHATSWORTH, California, USA": [
+    34.25725,
+    -118.59101
+  ],
+  "GRAPEVINE, Texas, USA": [
+    32.93948,
+    -97.07839
+  ],
+  "LOVELAND, Colorado, USA": [
+    40.39277,
+    -105.07358
+  ],
+  "PORT RICHEY, Florida, USA": [
+    28.28273,
+    -82.71602
+  ],
+  "PFLUGERVILLE, Texas, USA": [
+    30.44056,
+    -97.61994
+  ],
+  "PARKER, Arizona, USA": [
+    34.14988,
+    -114.2888
+  ],
+  "DECATUR, Illinois, USA": [
+    39.84585,
+    -88.95209
+  ],
+  "BRASELTON, Georgia, USA": [
+    34.10892,
+    -83.76276
+  ],
+  "SYLACAUGA, Alabama, USA": [
+    33.17157,
+    -86.2505
+  ],
+  "NORTHAMPTON, Pennsylvania, USA": [
+    40.6836,
+    -75.49108
+  ],
+  "BREA, California, USA": [
+    33.91759,
+    -117.88899
+  ],
+  "AUBURNDALE, Florida, USA": [
+    28.06455,
+    -81.78943
+  ],
+  "CLARKSVILLE, Tennessee, USA": [
+    36.53121,
+    -87.35992
+  ],
+  "ROMEOVILLE, Illinois, USA": [
+    41.63925,
+    -88.11266
+  ],
+  "HYATTSVILLE, Maryland, USA": [
+    38.9526,
+    -76.94275
+  ],
+  "ORANGE, California, USA": [
+    33.78787,
+    -117.85071
+  ],
+  "MORENO VALLEY, California, USA": [
+    33.91684,
+    -117.26113
+  ],
+  "EVANSVILLE, Indiana, USA": [
+    37.97708,
+    -87.56405
+  ],
+  "WEST JEFFERSON, Ohio, USA": [
+    39.94479,
+    -83.26904
+  ],
+  "BUFFALO, New York, USA": [
+    42.88545,
+    -78.87846
+  ],
+  "RIVIERA BEACH, Florida, USA": [
+    26.78349,
+    -80.06401
+  ],
+  "GRINNELL, Iowa, USA": [
+    41.74709,
+    -92.72737
+  ],
+  "CITY OF COMMERCE, California, USA": [
+    33.99418,
+    -118.1349
+  ],
+  "MILLERSPORT, Ohio, USA": [
+    39.89993,
+    -82.53505
+  ],
+  "LIBERTY HILL, Texas, USA": [
+    30.66405,
+    -97.92203
+  ],
+  "BALTIMORE, Maryland, USA": [
+    39.29058,
+    -76.60926
+  ],
+  "SAN ANTONIO, Texas, USA": [
+    29.42458,
+    -98.49461
+  ],
+  "Walton, Kentucky, USA": [
+    38.86689,
+    -84.61185
+  ],
+  "Clarksville, Tennessee, USA": [
+    36.53121,
+    -87.35992
+  ],
+  "WESRMINSTER, Colorado, USA": [
+    39.92842,
+    -104.94027
+  ],
+  "BETHLEHEM, Pennsylvania, USA": [
+    40.63103,
+    -75.37789
+  ],
+  "NEWVILLE, Pennsylvania, USA": [
+    40.17235,
+    -77.4004
+  ],
+  "TEMPLE, Texas, USA": [
+    31.09747,
+    -97.34303
+  ],
+  "DES MOINES, Iowa, USA": [
+    41.58981,
+    -93.61538
+  ],
+  "ADAIRVILLE, Georgia, USA": [
+    34.37047,
+    -84.92804
+  ],
+  "LEBANON, Tennessee, USA": [
+    36.20786,
+    -86.28952
+  ],
+  "OMAHA, Nebraska, USA": [
+    41.26068,
+    -95.94026
+  ],
+  "GARNER, Iowa, USA": [
+    43.10541,
+    -93.61461
+  ],
+  "MIRAMAR, Florida, USA": [
+    25.98623,
+    -80.30094
+  ],
+  "LANCASTER, Texas, USA": [
+    32.59319,
+    -96.7551
+  ],
+  "SOUTH EL MONTE, California, USA": [
+    34.0465,
+    -118.04319
+  ],
+  "MULESHOE, Texas, USA": [
+    34.22681,
+    -102.72474
+  ],
+  "AKRON, Ohio, USA": [
+    41.08431,
+    -81.51431
+  ],
+  "TAMPA, Florida, USA": [
+    27.94653,
+    -82.45927
+  ],
+  "SAN BERNADINO, California, USA": [
+    34.10524,
+    -117.29412
+  ],
+  "OWENSBORO, Kentucky, USA": [
+    37.77421,
+    -87.11351
+  ],
+  "OAK CREEK, Wisconsin, USA": [
+    42.89005,
+    -87.91194
+  ],
+  "POSEY ROAD JACSONVILLE, Florida, USA": [
+    30.31914,
+    -81.79452
+  ],
+  "FORT WORTH, Texas, USA": [
+    32.75095,
+    -97.33086
+  ],
+  "FT.LAUDERDALE, Florida, USA": [
+    26.12401,
+    -80.14357
+  ],
+  "BLUFFTON, Indiana, USA": [
+    40.73898,
+    -85.17147
+  ],
+  "SANTA PAULA, California, USA": [
+    34.35215,
+    -119.05958
+  ],
+  "FOREST, Mississippi, USA": [
+    32.3642,
+    -89.47569
+  ],
+  "GULFPORT, Mississippi, USA": [
+    30.38032,
+    -89.09189
+  ],
+  "ROANOKE, Texas, USA": [
+    32.99858,
+    -97.22927
+  ],
+  "JACKSON, Tennessee, USA": [
+    35.6139,
+    -88.8194
+  ],
+  "TAFT, California, USA": [
+    35.14254,
+    -119.45763
+  ],
+  "MT STERLING, Kentucky, USA": [
+    38.05728,
+    -83.94238
+  ],
+  "COLORADO CITY, Texas, USA": [
+    32.38814,
+    -100.86104
+  ],
+  "GOLDSBORO, North Carolina, USA": [
+    35.38613,
+    -77.99744
+  ],
+  "BRIDGETON, Missouri, USA": [
+    38.75529,
+    -90.40709
+  ],
+  "NORWALK, California, USA": [
+    33.91681,
+    -118.07252
+  ],
+  "MONTGOMERY, New York, USA": [
+    41.52724,
+    -74.23723
+  ],
+  "FLAGSTAFF, Arizona, USA": [
+    35.1982,
+    -111.6513
+  ],
+  "LARGO, Florida, USA": [
+    27.91604,
+    -82.79084
+  ],
+  "PERRIS, California, USA": [
+    33.78241,
+    -117.22834
+  ],
+  "FORSYTH, Georgia, USA": [
+    33.03419,
+    -83.93893
+  ],
+  "MIAMI GREENS, Florida, USA": [
+    25.77481,
+    -80.19773
+  ],
+  "TERRE HAUTE, Indiana, USA": [
+    39.46649,
+    -87.41301
+  ],
+  "CONCORD, North Carolina, USA": [
+    35.41043,
+    -80.5812
+  ],
+  "RIALTO, California, USA": [
+    34.10032,
+    -117.37282
+  ],
+  "NASHUA, New Hampshire, USA": [
+    42.75881,
+    -71.46442
+  ],
+  "BEDFORD, Ohio, USA": [
+    41.39666,
+    -81.53705
+  ],
+  "IMPERIAL, California, USA": [
+    32.84747,
+    -115.56953
+  ],
+  "SPRING, Texas, USA": [
+    30.08453,
+    -95.41929
+  ],
+  "PRESCOTT VALLEY, Arizona, USA": [
+    34.586,
+    -112.32315
+  ],
+  "ATLANTA, Georgia, USA": [
+    33.74831,
+    -84.39111
+  ],
+  "FORT WAYNE, Indiana, USA": [
+    41.08026,
+    -85.13831
+  ],
+  "HOUSTON, Texas, USA": [
+    29.76078,
+    -95.36952
+  ],
+  "JEFFERSONVILLE, Indiana, USA": [
+    38.27934,
+    -85.73763
+  ],
+  "ALLIANCE, Nebraska, USA": [
+    42.09712,
+    -102.87093
+  ],
+  "FORT MYERS, Florida, USA": [
+    26.64084,
+    -81.86793
+  ],
+  "KENESAW, Nebraska, USA": [
+    40.62092,
+    -98.65767
+  ],
+  "TUPELO, Mississippi, USA": [
+    34.25741,
+    -88.70783
+  ],
+  "NAPERVILLE, Illinois, USA": [
+    41.77083,
+    -88.15302
+  ],
+  "BROOKSHIRE, Texas, USA": [
+    29.78632,
+    -95.95628
+  ],
+  "EAST BERNSTADT, Kentucky, USA": [
+    37.18931,
+    -84.11821
+  ],
+  "COMMERCE, California, USA": [
+    34.00119,
+    -118.15494
+  ],
+  "SALISBURY, North Carolina, USA": [
+    35.66717,
+    -80.46963
+  ],
+  "DORAL, Florida, USA": [
+    25.82147,
+    -80.33198
+  ],
+  "EL MONTE, California, USA": [
+    34.07105,
+    -118.03094
+  ],
+  "WHITE OAK, North Carolina, USA": [
+    34.74803,
+    -78.70808
+  ],
+  "BATESVILLE, Indiana, USA": [
+    39.29679,
+    -85.22374
+  ],
+  "GREENWOOD, South Carolina, USA": [
+    34.19104,
+    -82.16074
+  ],
+  "ADAIRSVILLE, Georgia, USA": [
+    34.37047,
+    -84.92804
+  ],
+  "WALNUT, California, USA": [
+    34.02693,
+    -117.8405
+  ],
+  "LAWRENCEVILLE, Georgia, USA": [
+    33.95312,
+    -83.98804
+  ],
+  "Durant, Oklahoma, USA": [
+    33.9932,
+    -96.38602
+  ],
+  "NORTH CHARLESTON, South Carolina, USA": [
+    32.87734,
+    -80.0086
+  ],
+  "CONYERS, Georgia, USA": [
+    33.65958,
+    -84.0172
+  ],
+  "KINGSBURG, California, USA": [
+    36.51512,
+    -119.55236
+  ],
+  "ERIE, Pennsylvania, USA": [
+    42.12982,
+    -80.0855
+  ],
+  "ROXBURY, Massachusetts, USA": [
+    42.32877,
+    -71.08441
+  ],
+  "MORROW, Georgia, USA": [
+    33.58332,
+    -84.34107
+  ],
+  "SANTA CLARITA, California, USA": [
+    34.41389,
+    -118.55118
+  ],
+  "DOWNEY, California, USA": [
+    33.94077,
+    -118.12768
+  ],
+  "NORTHLAKE, Illinois, USA": [
+    41.90709,
+    -87.89979
+  ],
+  "Shreveport, Louisiana, USA": [
+    32.51487,
+    -93.74689
+  ],
+  "SPRING HILL, Kansas, USA": [
+    38.74334,
+    -94.81741
+  ],
+  "SAVANNAH, Georgia, USA": [
+    32.08091,
+    -81.09119
+  ],
+  "MONTEBELLO, California, USA": [
+    34.01958,
+    -118.11645
+  ],
+  "POMPANO BEACH, Florida, USA": [
+    26.23146,
+    -80.12544
+  ],
+  "GARDEN CITY, Georgia, USA": [
+    32.11693,
+    -81.14878
+  ],
+  "ROCKFIELD, Illinois, USA": [
+    41.39724,
+    -90.89953
+  ],
+  "Lakeville, Minnesota, USA": [
+    44.65779,
+    -93.24273
+  ],
+  "AUSTIN, Texas, USA": [
+    30.26759,
+    -97.74299
+  ],
+  "HUNTINGTON PARK, California, USA": [
+    33.98143,
+    -118.21914
+  ],
+  "PLAINFIELD, Indiana, USA": [
+    39.70442,
+    -86.39765
+  ],
+  "LONG BEACH, California, USA": [
+    33.76672,
+    -118.1924
+  ],
+  "STIGLER, Oklahoma, USA": [
+    35.25413,
+    -95.12542
+  ],
+  "ROSELAND, New Jersey, USA": [
+    40.82245,
+    -74.29244
+  ],
+  "MIDWAY, Tennessee, USA": [
+    36.17596,
+    -82.99286
+  ],
+  "AMES, Iowa, USA": [
+    42.02534,
+    -93.6202
+  ],
+  "SALINAS, California, USA": [
+    36.67087,
+    -121.65487
+  ],
+  "JACSONVILLE, Florida, USA": [
+    30.31806,
+    -81.41453
+  ],
+  "CAROL STREAM, Illinois, USA": [
+    41.91593,
+    -88.12056
+  ],
+  "LINCOLN, Nebraska, USA": [
+    40.81362,
+    -96.7073
+  ],
+  "BUFALO, New York, USA": [
+    42.88545,
+    -78.87846
+  ],
+  "CHATTAHOOCHEE, Florida, USA": [
+    30.705,
+    -84.84345
+  ],
+  "SAN MARCOS, Texas, USA": [
+    29.88608,
+    -97.92818
+  ],
+  "STUARTS  DRAFT, Virginia, USA": [
+    38.03074,
+    -79.0342
+  ],
+  "Azusa, California, USA": [
+    34.13361,
+    -117.90599
+  ],
+  "SANTA CLARA, California, USA": [
+    37.3558,
+    -121.95512
+  ],
+  "PEARL RIVER, Louisiana, USA": [
+    30.37614,
+    -89.74675
+  ],
+  "WILMER, Texas, USA": [
+    32.5896,
+    -96.68411
+  ],
+  "INDIANAPOLIS, Indiana, USA": [
+    39.76691,
+    -86.15012
+  ],
+  "COACHELLA, California, USA": [
+    33.67932,
+    -116.17556
+  ],
+  "CLOVIS, New Mexico, USA": [
+    34.40523,
+    -103.20534
+  ],
+  "LOUISVILLE, Tennessee, USA": [
+    35.82208,
+    -84.03988
+  ],
+  "CANYON COUNTRY, California, USA": [
+    34.41917,
+    -118.43908
+  ],
+  "PLACENTIA, California, USA": [
+    33.87121,
+    -117.8602
+  ],
+  "SEILING, Oklahoma, USA": [
+    36.149,
+    -98.92453
+  ],
+  "HOPKINSVILLE, Kentucky, USA": [
+    36.86735,
+    -87.48765
+  ],
+  "FONTANA, California, USA": [
+    34.10261,
+    -117.43577
+  ],
+  "BARSTOW, California, USA": [
+    34.89308,
+    -117.02546
+  ],
+  "POWAY, California, USA": [
+    32.95461,
+    -117.04289
+  ],
+  "PALESTINE, Texas, USA": [
+    31.7617,
+    -95.632
+  ],
+  "CUMMING, Iowa, USA": [
+    41.4832,
+    -93.76192
+  ],
+  "HARON HILL, Pennsylvania, USA": [
+    39.90663,
+    -75.27218
+  ],
+  "CHULA VISTA, California, USA": [
+    32.6409,
+    -117.08428
+  ],
+  "Chino, California, USA": [
+    34.01342,
+    -117.68933
+  ],
+  "FRANKFORT, Kentucky, USA": [
+    38.19507,
+    -84.87869
+  ],
+  "Torrance, California, USA": [
+    33.83707,
+    -118.34321
+  ],
+  "CARROLLTON, Texas, USA": [
+    32.97555,
+    -96.89023
+  ],
+  "CHARLEROI, Pennsylvania, USA": [
+    40.13679,
+    -79.89691
+  ],
+  "Biloxi, Mississippi, USA": [
+    30.39438,
+    -88.89639
+  ],
+  "BAKERSFIELD, California, USA": [
+    35.3673,
+    -119.01886
+  ],
+  "FREDERICKSBURG, Virginia, USA": [
+    38.30118,
+    -77.45933
+  ],
+  "BELTON, Missouri, USA": [
+    38.81081,
+    -94.53096
+  ],
+  "Seminole, Texas, USA": [
+    32.72659,
+    -102.64506
+  ],
+  "CALIPATRIA, California, USA": [
+    33.12561,
+    -115.51421
+  ],
+  "NORCROSS, Georgia, USA": [
+    33.94308,
+    -84.2104
+  ],
+  "NEW HOPE, Minnesota, USA": [
+    45.03637,
+    -93.38502
+  ],
+  "BESSEMER CITY, North Carolina, USA": [
+    35.28511,
+    -81.28585
+  ],
+  "APOPKA, Florida, USA": [
+    28.67312,
+    -81.5076
+  ],
+  "ST LOUIS, Missouri, USA": [
+    38.62775,
+    -90.19956
+  ],
+  "GROVETOWN, Georgia, USA": [
+    33.45236,
+    -82.20362
+  ],
+  "LOS LUNAS, New Mexico, USA": [
+    34.81207,
+    -106.74324
+  ],
+  "DALLAS, Texas, USA": [
+    32.77822,
+    -96.79512
+  ],
+  "SOLVANG, California, USA": [
+    34.59606,
+    -120.14395
+  ],
+  "ALEXANDRIA, Virginia, USA": [
+    38.8046,
+    -77.04341
+  ],
+  "MORGAN HILL, California, USA": [
+    37.12608,
+    -121.66194
+  ],
+  "HUNTINGTON BEACH, California, USA": [
+    33.67893,
+    -118.00157
+  ],
+  "NORTH MYRTLE BEACH, South Carolina, USA": [
+    33.82835,
+    -78.68502
+  ],
+  "Lubbock, Texas, USA": [
+    33.58451,
+    -101.84462
+  ],
+  "HUTTO, Texas, USA": [
+    30.54367,
+    -97.54231
+  ],
+  "ARLINGTON, Arizona, USA": [
+    33.32772,
+    -112.76048
+  ],
+  "SAN LEANDRO, California, USA": [
+    37.72832,
+    -122.15856
+  ],
+  "NEW BRAUNFELS, Texas, USA": [
+    29.69925,
+    -98.12151
+  ],
+  "BEAUMONT, California, USA": [
+    33.92938,
+    -116.97457
+  ],
+  "FAIRBURN, Georgia, USA": [
+    33.56677,
+    -84.58709
+  ],
+  "OCALA, Florida, USA": [
+    29.18781,
+    -82.14041
+  ],
+  "GRAND PRAIRE, Texas, USA": [
+    32.73214,
+    -97.02825
+  ],
+  "WATERLOO, Indiana, USA": [
+    41.4308,
+    -85.01996
+  ],
+  "HANOVER, Maryland, USA": [
+    39.15593,
+    -76.72008
+  ],
+  "ALTOONA, Pennsylvania, USA": [
+    40.50733,
+    -78.3991
+  ],
+  "BUFORD, Georgia, USA": [
+    34.11928,
+    -84.00605
+  ],
+  "AUGUSTA, Georgia, USA": [
+    33.47935,
+    -81.97519
+  ],
+  "KINSTON, North Carolina, USA": [
+    35.26869,
+    -77.58245
+  ],
+  "MONROVIA, Maryland, USA": [
+    39.37814,
+    -77.27009
+  ],
+  "Charlotte, North Carolina, USA": [
+    35.22286,
+    -80.83796
+  ],
+  "DALTON, Georgia, USA": [
+    34.76145,
+    -84.97218
+  ],
+  "ARLINGTON, Texas, USA": [
+    32.7356,
+    -97.10772
+  ],
+  "WILLOW SPRINGS, Missouri, USA": [
+    36.99223,
+    -91.96975
+  ],
+  "GAFFNEY, South Carolina, USA": [
+    35.07362,
+    -81.64866
+  ],
+  "BILLERICA, Massachusetts, USA": [
+    42.56355,
+    -71.27144
+  ],
+  "ATLANTIC CITY, New Jersey, USA": [
+    39.36287,
+    -74.42637
+  ],
+  "HOLLYWOOD, Florida, USA": [
+    26.01067,
+    -80.16025
+  ],
+  "SOCIAL CIRCLE, Georgia, USA": [
+    33.65605,
+    -83.71832
+  ],
+  "Orlando, Florida, USA": [
+    28.53822,
+    -81.37739
+  ],
+  "APPLE VALLET, California, USA": [
+    34.52373,
+    -117.21643
+  ],
+  "MIDLAND, Texas, USA": [
+    32.00034,
+    -102.07446
+  ],
+  "LA FAYETTE, Georgia, USA": [
+    34.71093,
+    -85.28081
+  ],
+  "INGLEWOOD, California, USA": [
+    33.96178,
+    -118.35653
+  ],
+  "WATHENA, Kansas, USA": [
+    39.76078,
+    -94.94783
+  ],
+  "PERRYSBURG, Ohio, USA": [
+    41.557,
+    -83.62812
+  ],
+  "VALENCIA, California, USA": [
+    34.41575,
+    -118.54992
+  ],
+  "LAKELAND, Florida, USA": [
+    28.04416,
+    -81.94792
+  ],
+  "GRAND PRAIRIE, Texas, USA": [
+    32.74772,
+    -97.00678
+  ],
+  "RANCHO DOMINGUE, California, USA": [
+    33.85761,
+    -118.21594
+  ],
+  "BUKEYE, Arizona, USA": [
+    35.47153,
+    -114.02618
+  ],
+  "ELIZABETHTOWN, Kentucky, USA": [
+    37.69371,
+    -85.85919
+  ],
+  "N CHARLESTON, South Carolina, USA": [
+    32.87734,
+    -80.0086
+  ],
+  "HARRELLSVILLE, North Carolina, USA": [
+    36.30249,
+    -76.7927
+  ],
+  "MIAMI, Florida, USA": [
+    25.77481,
+    -80.19773
+  ],
+  "TOPEKA, Kansas, USA": [
+    39.04931,
+    -95.67118
+  ],
+  "Hereford, Texas, USA": [
+    34.81216,
+    -102.40576
+  ],
+  "SAINT ANSGAR, Iowa, USA": [
+    43.37923,
+    -92.92533
+  ],
+  "MONTEREY PARK, California, USA": [
+    34.0598,
+    -118.1257
+  ],
+  "PENDERGRASS, Georgia, USA": [
+    34.16354,
+    -83.67928
+  ],
+  "SOUTHERN PINES, North Carolina, USA": [
+    35.17441,
+    -79.39147
+  ],
+  "LITTLE ROCK, Arkansas, USA": [
+    34.7487,
+    -92.27485
+  ],
+  "BAKERFIELD ST, California, USA": [
+    35.01149,
+    -116.52284
+  ],
+  "LAREDO, Texas, USA": [
+    27.53092,
+    -99.50231
+  ],
+  "NICHOLASVILLE, Kentucky, USA": [
+    37.88712,
+    -84.5702
+  ],
+  "YUMA, Arizona, USA": [
+    32.68549,
+    -114.62461
+  ],
+  "Carson, California, USA": [
+    33.83161,
+    -118.26209
+  ],
+  "HICKORY, North Carolina, USA": [
+    35.73528,
+    -81.3356
+  ],
+  "LOUISVILLE, Kentucky, USA": [
+    38.25489,
+    -85.76666
+  ],
+  "LA HEBRA, California, USA": [
+    34.05357,
+    -118.24545
+  ],
+  "CORONA, New Mexico, USA": [
+    34.25158,
+    -105.59458
+  ],
+  "FORT PAYNE, Alabama, USA": [
+    34.44133,
+    -85.71436
+  ],
+  "CHINO, California, USA": [
+    34.01342,
+    -117.68933
+  ],
+  "THEODORE, Alabama, USA": [
+    30.55433,
+    -88.17889
+  ],
+  "HARDEEVILLE, South Carolina, USA": [
+    32.28692,
+    -81.08071
+  ],
+  "PLEASANTON, Kansas, USA": [
+    38.18024,
+    -94.7118
+  ],
+  "PASADENA, Texas, USA": [
+    29.69085,
+    -95.19548
+  ],
+  "TEMECULA, California, USA": [
+    33.50299,
+    -117.16247
+  ],
+  "COBLESKILL, New York, USA": [
+    42.6782,
+    -74.48317
+  ],
+  "VALLEY, Alabama, USA": [
+    32.84396,
+    -85.18093
+  ],
+  "MESQUITE, Texas, USA": [
+    32.78343,
+    -96.60212
+  ],
+  "WACO, Texas, USA": [
+    31.57182,
+    -97.1495
+  ],
+  "FITZGERALD, Georgia, USA": [
+    31.71497,
+    -83.25226
+  ],
+  "TORRANCE, California, USA": [
+    33.83707,
+    -118.34321
+  ],
+  "CORAL SPRINGS, Florida, USA": [
+    26.27249,
+    -80.25406
+  ],
+  "POOLER, Georgia, USA": [
+    32.11471,
+    -81.24922
+  ],
+  "MIDWAY, Arkansas, USA": [
+    34.25073,
+    -92.96559
+  ],
+  "GLENDALE, Arizona, USA": [
+    33.53861,
+    -112.18622
+  ],
+  "GRAND RAPIDS, Michigan, USA": [
+    42.96642,
+    -85.67195
+  ],
+  "PANORAMA CITY, California, USA": [
+    34.22283,
+    -118.44875
+  ],
+  "BENTONVILLE, Arkansas, USA": [
+    36.37234,
+    -94.20996
+  ],
+  "DOTHAN, Alabama, USA": [
+    31.22348,
+    -85.39338
+  ],
+  "PALM SPRINGS, Florida, USA": [
+    26.64173,
+    -80.0949
+  ],
+  "LAS VEGAS, Nevada, USA": [
+    36.17193,
+    -115.14001
+  ],
+  "BENTON, Tennessee, USA": [
+    35.1737,
+    -84.6525
+  ],
+  "VAN NUYS, California, USA": [
+    34.18439,
+    -118.44652
+  ],
+  "MEMPHIS, Tennessee, USA": [
+    35.14976,
+    -90.04925
+  ],
+  "Los Angeles, California, USA": [
+    34.05357,
+    -118.24545
+  ],
+  "RICHVALE, California, USA": [
+    39.49589,
+    -121.74906
+  ],
+  "TUCSON, Arizona, USA": [
+    32.22177,
+    -110.96977
+  ],
+  "Dallas, Texas, USA": [
+    32.77822,
+    -96.79512
+  ],
+  "JUPITER, Florida, USA": [
+    26.93277,
+    -80.10189
+  ],
+  "AVONDALE, Arizona, USA": [
+    33.44096,
+    -112.34966
+  ],
+  "SPRINGFILED, Missouri, USA": [
+    37.19443,
+    -93.30143
+  ],
+  "Orange, California, USA": [
+    33.78787,
+    -117.85071
+  ],
+  "MECHANICSBURG, Pennsylvania, USA": [
+    40.2132,
+    -77.00834
+  ],
+  "CHECOTAH, Oklahoma, USA": [
+    35.46997,
+    -95.52243
+  ],
+  "RANCHO CUCAMONGA, California, USA": [
+    34.1028,
+    -117.57527
+  ],
+  "MILAN, Michigan, USA": [
+    42.08434,
+    -83.68355
+  ],
+  "BAKERFIELD, California, USA": [
+    35.01149,
+    -116.52284
+  ],
+  "MARTINSBURG, West Virginia, USA": [
+    39.45645,
+    -77.96499
+  ],
+  "LA VERGNE, Tennessee, USA": [
+    36.02242,
+    -86.58363
+  ],
+  "DAYVILLE, Connecticut, USA": [
+    41.84559,
+    -71.88653
+  ],
+  "JOLIET, Illinois, USA": [
+    41.52493,
+    -88.08459
+  ],
+  "WILDORADO, Texas, USA": [
+    35.20862,
+    -102.20196
+  ],
+  "EL MIRAGE, Arizona, USA": [
+    33.61528,
+    -112.32258
+  ],
+  "WEST PALM BEACH, Florida, USA": [
+    26.7144,
+    -80.05329
+  ],
+  "TOMBALL, Texas, USA": [
+    30.09584,
+    -95.61699
+  ],
+  "RIO RICO, Arizona, USA": [
+    31.47521,
+    -110.98234
+  ],
+  "VACAVILLE, California, USA": [
+    38.35218,
+    -121.99263
+  ],
+  "Burlington, New Jersey, USA": [
+    40.07704,
+    -74.85782
+  ],
+  "WINTER HAVEN, Florida, USA": [
+    28.02232,
+    -81.73295
+  ],
+  "Muncie, Indiana, USA": [
+    40.19316,
+    -85.38173
+  ],
+  "VILLAGE PHOENIX, Arizona, USA": [
+    33.51236,
+    -111.98574
+  ],
+  "KATY, Texas, USA": [
+    29.78772,
+    -95.82333
+  ],
+  "HUNTSVILLE, Alabama, USA": [
+    34.72929,
+    -86.5851
+  ],
+  "KANSAS CITY, Missouri, USA": [
+    39.10344,
+    -94.58311
+  ],
+  "LANCASTER, California, USA": [
+    34.6992,
+    -118.14482
+  ],
+  "HUNTINGTON, West Virginia, USA": [
+    38.42031,
+    -82.44551
+  ],
+  "Largo, Florida, USA": [
+    27.91604,
+    -82.79084
+  ],
+  "BILOXI, Mississippi, USA": [
+    30.39438,
+    -88.89639
+  ],
+  "CERRITOS, California, USA": [
+    33.86866,
+    -118.0637
+  ],
+  "ASHLAND, Kentucky, USA": [
+    38.48087,
+    -82.64393
+  ],
+  "IRVING, Texas, USA": [
+    32.81352,
+    -96.95532
+  ],
+  "PHOENIX, Arizona, USA": [
+    33.44825,
+    -112.0758
+  ],
+  "WELLSBURG, West Virginia, USA": [
+    40.28137,
+    -80.60703
+  ],
+  "Goldsboro, North Carolina, USA": [
+    35.38613,
+    -77.99744
+  ],
+  "San Antonio, Texas, USA": [
+    29.42458,
+    -98.49461
+  ],
+  "GREENVILLE, South Carolina, USA": [
+    34.84829,
+    -82.4001
+  ],
+  "REDONDO BEACH, California, USA": [
+    33.84468,
+    -118.38765
+  ],
+  "LOS ANGELES, California, USA": [
+    34.05357,
+    -118.24545
+  ],
+  "SIDNEY, Ohio, USA": [
+    40.28688,
+    -84.15422
+  ],
+  "FLOWER MOUND, Texas, USA": [
+    33.03444,
+    -97.05756
+  ],
+  "WINCHESTER, Virginia, USA": [
+    39.18402,
+    -78.16404
+  ],
+  "OLIVE BRANCH, Mississippi, USA": [
+    34.96194,
+    -89.82767
+  ],
+  "COLUMBUS, Ohio, USA": [
+    39.96199,
+    -83.00275
+  ],
+  "ADELANTO, California, USA": [
+    34.57922,
+    -117.4101
+  ],
+  "ROUND ROCK, Texas, USA": [
+    30.50904,
+    -97.67722
+  ],
+  "ANAHEIM, California, USA": [
+    33.83285,
+    -117.91528
+  ],
+  "TIFTON, Georgia, USA": [
+    31.45209,
+    -83.50958
+  ],
+  "ITHACA, Michigan, USA": [
+    43.29428,
+    -84.60757
+  ],
+  "MIDDLEPORT, Ohio, USA": [
+    39.00095,
+    -82.04977
+  ],
+  "BATAVIA, Illinois, USA": [
+    41.85,
+    -88.30843
+  ],
+  "CHICOPEE, Massachusetts, USA": [
+    42.14819,
+    -72.60697
+  ],
+  "COLLINS, Ohio, USA": [
+    41.25881,
+    -82.49164
+  ],
+  "HANOVER, Pennsylvania, USA": [
+    39.80098,
+    -76.98251
+  ],
+  "Riverside, California, USA": [
+    33.98171,
+    -117.37404
+  ],
+  "WOODBRIDGE, Virginia, USA": [
+    38.66167,
+    -77.2474
+  ],
+  "TIPP CITY, Ohio, USA": [
+    39.9611,
+    -84.1757
+  ],
+  "CONOVER, North Carolina, USA": [
+    35.70733,
+    -81.21997
+  ],
+  "HENDERSON, North Carolina, USA": [
+    36.33006,
+    -78.39848
+  ],
+  "MCLEANSBORO, Illinois, USA": [
+    38.09405,
+    -88.53615
+  ],
+  "LIVONIA, Michigan, USA": [
+    42.39686,
+    -83.36959
+  ],
+  "SANTA MARIA, California, USA": [
+    34.95313,
+    -120.43453
+  ],
+  "MONTCLAIR, California, USA": [
+    34.07401,
+    -117.69125
+  ],
+  "HAGERSTOWN, Maryland, USA": [
+    39.6425,
+    -77.71758
+  ],
+  "HARBOR CITY, California, USA": [
+    33.79781,
+    -118.30253
+  ],
+  "GOODYEAR, Arizona, USA": [
+    33.4363,
+    -112.35831
+  ],
+  "Houston, Texas, USA": [
+    29.76078,
+    -95.36952
+  ],
+  "DAYTON, Ohio, USA": [
+    39.7592,
+    -84.19381
+  ],
+  "RIVERSIDE, California, USA": [
+    33.98171,
+    -117.37404
+  ],
+  "LINCOLNTON, North Carolina, USA": [
+    35.47175,
+    -81.25576
+  ],
+  "LOSANGELES, California, USA": [
+    34.05357,
+    -118.24545
+  ],
+  "PORTLAND, Maine, USA": [
+    43.65915,
+    -70.25665
+  ],
+  "SOLON, Ohio, USA": [
+    41.38776,
+    -81.43732
+  ],
+  "HOMESTEAD, Florida, USA": [
+    25.47651,
+    -80.46553
+  ],
+  "MOUNT JOLIET, Tennessee, USA": [
+    36.19937,
+    -86.519
+  ],
+  "OZARK, Alabama, USA": [
+    31.45895,
+    -85.64071
+  ],
+  "NOGALES, Arizona, USA": [
+    31.33783,
+    -110.94006
+  ],
+  "BLOOMINGDALE, Georgia, USA": [
+    32.13225,
+    -81.29894
+  ],
+  "KNOXVILLE, Tennessee, USA": [
+    35.96068,
+    -83.92103
+  ],
+  "OAKLAND PARK, Florida, USA": [
+    26.17273,
+    -80.13121
+  ],
+  "LENEXA, Kansas, USA": [
+    38.96151,
+    -94.73983
+  ],
+  "ENFIELD, Connecticut, USA": [
+    41.9984,
+    -72.57439
+  ],
+  "ELLENWOOD, Georgia, USA": [
+    33.61266,
+    -84.28941
+  ],
+  "JONESBORO, Georgia, USA": [
+    33.52236,
+    -84.35406
+  ],
+  "Oklahoma City, Oklahoma, USA": [
+    35.47203,
+    -97.52107
+  ],
+  "ALBUQUERQUE, New Mexico, USA": [
+    35.08423,
+    -106.64905
+  ],
+  "Pooler, Georgia, USA": [
+    32.11471,
+    -81.24922
+  ],
+  "SMITHFIELD, North Carolina, USA": [
+    35.51175,
+    -78.34729
+  ],
+  "SEDALIA, Missouri, USA": [
+    38.71077,
+    -93.22806
+  ],
+  "EAU CLAIRE, Wisconsin, USA": [
+    44.81658,
+    -91.50077
+  ],
+  "Perris, California, USA": [
+    33.78241,
+    -117.22834
+  ],
+  "BELL, California, USA": [
+    33.97977,
+    -118.18885
+  ],
+  "YOAKUM, Texas, USA": [
+    29.29027,
+    -97.15158
+  ],
+  "PICO RIVERA, California, USA": [
+    33.98242,
+    -118.08799
+  ],
+  "Lawrenceburg, Tennessee, USA": [
+    35.241,
+    -87.33146
+  ],
+  "VERNON, California, USA": [
+    34.00513,
+    -118.23025
+  ],
+  "OKLAHOMA CITY, Oklahoma, USA": [
+    35.47203,
+    -97.52107
+  ],
+  "MORGANTOWN, Kentucky, USA": [
+    37.22492,
+    -86.68421
+  ],
+  "DWIGHT, Illinois, USA": [
+    41.09405,
+    -88.42778
+  ],
+  "GLENDALE HEIGHTS, Illinois, USA": [
+    41.91773,
+    -88.0756
+  ],
+  "STOCKTON, California, USA": [
+    37.95373,
+    -121.29046
+  ],
+  "EDWARDSVILLE, Illinois, USA": [
+    38.8137,
+    -89.95629
+  ],
+  "MORRISVILLE, North Carolina, USA": [
+    35.82305,
+    -78.83015
+  ],
+  "HOSTON, Texas, USA": [
+    29.76046,
+    -95.36341
+  ],
+  "ONTARIO, California, USA": [
+    34.06457,
+    -117.6481
+  ],
+  "SANTA FE SPRING, California, USA": [
+    36.97986,
+    -122.04426
+  ],
+  "OXNARD, California, USA": [
+    34.20034,
+    -119.18013
+  ],
+  "COVINA, California, USA": [
+    34.08743,
+    -117.88991
+  ],
+  "HAZELWOOD, Missouri, USA": [
+    38.78539,
+    -90.356
+  ],
+  "ORLAND, Florida, USA": [
+    41.33189,
+    -74.35678
+  ],
+  "MADISON, Alabama, USA": [
+    34.70658,
+    -86.75095
+  ],
+  "TYLER, Texas, USA": [
+    32.34763,
+    -95.2943
+  ],
+  "BUCYRUS, Ohio, USA": [
+    40.80866,
+    -82.97665
+  ],
+  "ROCKY RIVER, Ohio, USA": [
+    41.46696,
+    -81.85274
+  ],
+  "OKLAHOMA, Oklahoma, USA": [
+    35.47203,
+    -97.52107
+  ],
+  "HERNANDO, Mississippi, USA": [
+    34.82352,
+    -89.99648
+  ],
+  "SACREMENTO, California, USA": [
+    38.64178,
+    -121.26874
+  ],
+  "MARIETTA, Georgia, USA": [
+    33.95321,
+    -84.54649
+  ],
+  "BELPRE, Ohio, USA": [
+    39.2817,
+    -81.56881
+  ],
+  "FORT LAUDERDALE, Florida, USA": [
+    26.12401,
+    -80.14357
+  ],
+  "FORTH WORTH, Texas, USA": [
+    32.75095,
+    -97.33086
+  ],
+  "NEW CASTLE, Delaware, USA": [
+    39.65978,
+    -75.56394
+  ],
+  "BOERNE, Texas, USA": [
+    29.78956,
+    -98.72933
+  ],
+  "MESA, Arizona, USA": [
+    33.41704,
+    -111.83146
+  ],
+  "Guthrie, Oklahoma, USA": [
+    35.88012,
+    -97.42302
+  ],
+  "BATON ROUGE, Louisiana, USA": [
+    30.44335,
+    -91.18664
+  ],
+  "AMORY, Mississippi, USA": [
+    33.98583,
+    -88.48959
+  ],
+  "EASTVALE, California, USA": [
+    33.97842,
+    -117.55827
+  ],
+  "PLATTBURG, New York, USA": [
+    40.59195,
+    -74.09908
+  ],
+  "Concord, North Carolina, USA": [
+    35.41043,
+    -80.5812
+  ],
+  "MEBANE, North Carolina, USA": [
+    36.09579,
+    -79.26618
+  ],
+  "VALPARAISO, Indiana, USA": [
+    41.46776,
+    -87.06123
+  ],
+  "NORTH LAS VEGAS, Nevada, USA": [
+    36.20069,
+    -115.12228
+  ],
+  "PHARR, Texas, USA": [
+    26.19488,
+    -98.18371
+  ],
+  "SOUTH BEND, Indiana, USA": [
+    41.67907,
+    -86.25405
+  ],
+  "Fairless Hills, Pennsylvania, USA": [
+    40.17334,
+    -74.85369
+  ],
+  "DUFFIELD, Virginia, USA": [
+    36.71679,
+    -82.79494
+  ],
+  "DENTON, Texas, USA": [
+    33.21659,
+    -97.13163
+  ],
+  "Vista, California, USA": [
+    33.20239,
+    -117.23505
+  ],
+  "SURPRISE, Arizona, USA": [
+    33.62369,
+    -112.36781
+  ],
+  "ORCHARD PARKWAY, New York, USA": [
+    40.38919,
+    -74.24084
+  ]
+}
