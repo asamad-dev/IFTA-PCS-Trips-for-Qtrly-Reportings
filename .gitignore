@@ -151,10 +151,6 @@ Thumbs.db
 # Project specific - Generated/Output files
 debug/
 output/
-*.xlsx
-*.xls
-!*template*.xlsx
-!*template*.xls
 
 # Temporary files
 temp/
@@ -226,3 +222,6 @@ backup_*
 # Configuration files with sensitive information
 *.toml
 !secrets.toml.example
+
+
+resultofload_174418.md

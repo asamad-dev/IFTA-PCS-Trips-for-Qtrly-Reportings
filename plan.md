@@ -11,10 +11,11 @@ This system processes truck delivery data to calculate state-by-state mileage fo
   - `Output` - Template for results
 
 ## Business Logic Summary
-- All drivers start/end trips in California (CA)
-- Trips involve multiple states requiring route optimization
+- **Round Trip Pattern**: Trucks start in CA, deliver loads to other states, then return to CA
+- **Trip Definition**: A complete trip consists of outbound (CA→X) + return (X→CA) legs
+- **Chronological Order**: Loads must maintain exact PU Date sequence
+- **Virtual Returns**: AZ/NV loads without CA returns need virtual empty legs
 - Calculate miles driven in each state for IFTA compliance
-- Group related loads by truck and optimize delivery sequence
 
 ---
 
@@ -89,59 +90,69 @@ pcs = pcs.sort_values(["Truck", "PU", "Load"])
 
 ---
 
-## Phase 3: Trip Grouping and Reference Assignment
+## Phase 3: Round Trip Detection and Reference Assignment
 
-### Step 3.1: Group Related Loads
-**Business Rule**: Loads with same Truck and Trip should be grouped and assigned sequential reference numbers (e.g., 9.1, 9.2, 9.3)
+### Step 3.1: Detect Round Trip Patterns
+**Business Rule**: Group loads by Truck+Trailer in chronological order (PU Date F)
+- **Round Trip**: CA→X followed by X→CA (same state destinations)
+- **Date Gap Filter**: Max 3 days between Del Date F and next PU Date F
+- **Sequential References**: Each complete round trip gets new integer (16.1, 16.2, then 17.1, 17.2)
 
-### Step 3.2: Consolidate CA Destinations
+### Step 3.2: Assign Reference Numbers
 **Logic**: 
-- First load in group (x.1) keeps CA as origin
-- Collect all CA destinations from group into `CA_Cities` column
-- Subsequent loads (x.2, x.3, etc.) start from previous destination
+- Maintain chronological order (no optimization)
+- Each load keeps its own decimal reference
+- No CA destination consolidation
 
 **Example Transformation**:
 ```
 Before:
-Load 175029: COLTON, CA → HOUSTON, TX (Ref: 9.1)
-Load 175031: HUNTINGTON BEACH, CA → PANAMA CITY, FL (Ref: 9.2)  
-Load 175030: LOS ANGELES, CA → LOXLEY, AL (Ref: 9.3)
+Load 174418: CITY OF INDUSTRY, CA → MT STERLING, KY (04/11)
+Load 174520: OWENSBORO, KY → ONTARIO, CA (04/25) 
+Load 174861: RIVERSIDE, CA → SAPULPA, OK (05/16)
+Load 174899: DURANT, OK → EL MIRAGE, AZ (05/21)
 
 After:
-Load 175029: COLTON, CA → HOUSTON, TX (Ref: 9.1, CA_Cities: "HUNTINGTON BEACH, LOS ANGELES")
-Load 175031: HOUSTON, TX → PANAMA CITY, FL (Ref: 9.2)
-Load 175030: PANAMA CITY, FL → LOXLEY, AL (Ref: 9.3)
+Load 174418: CITY OF INDUSTRY, CA → MT STERLING, KY (Ref: 16.1)
+Load 174520: OWENSBORO, KY → ONTARIO, CA (Ref: 16.2)
+Load 174861: RIVERSIDE, CA → SAPULPA, OK (Ref: 17.1) 
+Load 174899: DURANT, OK → EL MIRAGE, AZ (Ref: 17.2)
+Virtual: EL MIRAGE, AZ → SAN BERNARDINO, CA (Ref: 17.3) [Empty return]
 ```
 
 ---
 
-## Phase 4: Route Optimization
+## Phase 4: Virtual Return Leg Processing
 
-### Step 4.1: Analyze Delivery Sequence
-**Challenge**: Original sequence may not be geographically optimal
-- Use HERE API to calculate distances between destinations
-- Use `cb_2024_us_state_500k.shp` for state boundary validation
-- Reorder destinations to minimize total travel distance
+### Step 4.1: Identify Incomplete Trips
+**Rule**: Find loads that end in AZ/NV without subsequent CA delivery
+- Check if load ends in AZ or NV
+- Look ahead for future CA delivery by same truck/trailer
+- If no CA return within reasonable timeframe, create virtual return
 
-### Step 4.2: Route Optimization Algorithm
+### Step 4.2: Generate Virtual Return Legs
 ```python
-def optimize_route_sequence(destinations):
+def add_virtual_return_leg(last_load):
     """
-    Input: List of destinations from CA loads
-    Output: Optimized sequence with updated reference numbers
+    Input: Load ending in AZ/NV without CA return
+    Output: Virtual empty leg back to CA
     
     Example:
-    Original: CA → TX → FL → AL
-    Optimized: CA → TX → AL → FL (AL is between TX and FL)
+    Last Load: DURANT, OK → EL MIRAGE, AZ (Ref: 17.2)
+    Virtual:   EL MIRAGE, AZ → SAN BERNARDINO, CA (Ref: 17.3) [Empty]
     """
-    # Implementation options:
-    # 1. Distance-based optimization using HERE API
-    # 2. Geospatial analysis using shapefile data
-    # 3. LLM-assisted route optimization
+    virtual_leg = {
+        'Load': f"VIRTUAL_{last_load['Load']}",
+        'Ship_City': last_load['Cons_City'], 
+        'Ship_St': last_load['Cons_St'],
+        'Cons_City': 'SAN BERNARDINO',
+        'Cons_St': 'CA',
+        'Note': f'Empty return ({last_load["Cons_St"]}→CA)'
+    }
 ```
 
-### Step 4.3: Update Reference Numbers
-After route optimization, update the `Ref` numbers to reflect the new sequence.
+### Step 4.3: Maintain Chronological Order
+**Critical**: Do NOT reorder loads - maintain exact PU Date F sequence for ELD compliance
 
 ---
 
@@ -227,7 +238,49 @@ Miles: [Calculated from HERE API]
 - All company-owned truck trips processed
 - Accurate state-by-state mileage calculation
 - Properly formatted output for IFTA compliance
-- Optimized routes reducing total travel distance 
+- Optimized routes reducing total travel distance
+
+---
+
+## CORRECTED EXAMPLE - Round Trip Processing
+
+### Real Data Example (Truck 1501, Trailer 258):
+**After Phase 2** (filtered data):
+```
+Load 174418: CITY OF INDUSTRY, CA → MT STERLING, KY (04/11/2025)
+Load 174520: OWENSBORO, KY → ONTARIO, CA (04/25/2025) 
+Load 174861: RIVERSIDE, CA → SAPULPA, OK (05/16/2025)
+Load 174899: DURANT, OK → EL MIRAGE, AZ (05/21/2025)
+```
+
+**After Phase 3** (round trip detection):
+```
+Load 174418: CITY OF INDUSTRY, CA → MT STERLING, KY (Ref: 16.1) [Round Trip 16 - Outbound]
+Load 174520: OWENSBORO, KY → ONTARIO, CA (Ref: 16.2) [Round Trip 16 - Return]  
+Load 174861: RIVERSIDE, CA → SAPULPA, OK (Ref: 17.1) [Round Trip 17 - Outbound]
+Load 174899: DURANT, OK → EL MIRAGE, AZ (Ref: 17.2) [Round Trip 17 - Incomplete]
+```
+
+**After Phase 4** (virtual return legs):
+```
+Load 174418: CITY OF INDUSTRY, CA → MT STERLING, KY (Ref: 16.1)
+Load 174520: OWENSBORO, KY → ONTARIO, CA (Ref: 16.2)
+Load 174861: RIVERSIDE, CA → SAPULPA, OK (Ref: 17.1)  
+Load 174899: DURANT, OK → EL MIRAGE, AZ (Ref: 17.2)
+Virtual: EL MIRAGE, AZ → SAN BERNARDINO, CA (Ref: 17.3) [Empty return AZ→CA]
+```
+
+**Final Output** (each load produces state-by-state records):
+```
+Company: Ansh Freight, Ref No: 16.1, Load: 174418, State: CA, Miles: XX
+Company: Ansh Freight, Ref No: 16.1, Load: 174418, State: NV, Miles: XX  
+Company: Ansh Freight, Ref No: 16.1, Load: 174418, State: UT, Miles: XX
+Company: Ansh Freight, Ref No: 16.1, Load: 174418, State: CO, Miles: XX
+Company: Ansh Freight, Ref No: 16.1, Load: 174418, State: KY, Miles: XX
+Company: Ansh Freight, Ref No: 16.2, Load: 174520, State: KY, Miles: XX
+Company: Ansh Freight, Ref No: 16.2, Load: 174520, State: CA, Miles: XX
+[... and so on for all loads including virtual returns ...]
+``` 
 
 
 
