@@ -6,3 +6,4 @@ toml
 requests
 aiohttp
 openpyxl
+streamlit
