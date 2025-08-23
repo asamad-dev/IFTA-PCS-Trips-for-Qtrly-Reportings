@@ -200,14 +200,6 @@ here.py
 test_here_api.py
 test_prototype.py
 
-# Shapefile metadata and documentation
-cb_2024_us_state_500k.cpg
-cb_2024_us_state_500k.prj
-cb_2024_us_state_500k.shp.ea.iso.xml
-cb_2024_us_state_500k.shp.iso.xml
-# cb_2024_us_state_500k.shx
-cb_2024_us_state_500k.dbf
-
 # Debug CSV files
 pcs_with_refs_debug*.csv
 
